@@ -2,7 +2,6 @@
 - 👀 I’m interested in Coding hahaha!
 - 🌱 I’m currently learning web applications
 - 💞️ I’m looking to collaborate on Vue3.js
-- 📫 
 
 <!---
 shubham-zoomifier/shubham-zoomifier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
